@@ -6,7 +6,7 @@ If you navigate so there are multiple childs and then you want immediatly return
 
 - In this example press the button so you navigate to SecondPage which is the first child. 
 - Press again the button to navigate to third page
-- Press again the button you should navigate back to the root -> the title changes but not the page content
+- Press again the button you should navigate back to the root -> the title changes to Home again which is correct but not the page content
 
 It works if you only have 1 child so you can change the code in the MainPage to navigate directly to the ThirdPage, then everything works as expected.
 
